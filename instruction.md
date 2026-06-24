@@ -3,7 +3,7 @@
 
 _Первое, что нужно сделать после установки программы — указать ваше имя и адрес электронной почты с помощью следующих команд:_
 
-1. `git config —global user.name "Ваше имя на латинице"`
+1. `git config —global user.name "ваше имя на латинице"`
 2. `git config —global user.email "your_email@example.com"`
 
 ## Команды Git
